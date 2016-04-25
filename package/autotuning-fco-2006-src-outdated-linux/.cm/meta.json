@@ -1,0 +1,23 @@
+{
+  "customize": {
+    "extra_dir": "", 
+    "split_version": [
+      2006
+    ], 
+    "version": "2006"
+  }, 
+  "only_for_host_os_tags": [
+    "linux"
+  ], 
+  "only_for_target_os_tags": [
+    "linux"
+  ], 
+  "process_script": "process", 
+  "soft_uoa": "71432f9a4e231335", 
+  "suggested_path": "fco", 
+  "tags": [
+    "autotuning", 
+    "fco", 
+    "v2006"
+  ]
+}

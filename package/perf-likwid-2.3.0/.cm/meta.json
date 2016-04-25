@@ -1,0 +1,27 @@
+{
+  "customize": {
+    "extra_dir": "", 
+    "split_version": [
+      2, 
+      3, 
+      0
+    ], 
+    "version": "2.3.0"
+  }, 
+  "only_for_host_os_tags": [
+    "linux"
+  ], 
+  "only_for_target_os_tags": [
+    "linux"
+  ], 
+  "process_script": "process", 
+  "soft_uoa": "97fa312a6a53d93e", 
+  "suggested_path": "likwid", 
+  "tags": [
+    "perf", 
+    "likwid", 
+    "v2.3.0", 
+    "v2.3", 
+    "v2"
+  ]
+}
