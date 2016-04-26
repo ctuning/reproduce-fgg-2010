@@ -1,0 +1,23 @@
+{
+  "customize": {
+    "extra_dir": "pocc-1.2", 
+    "tool_prefix": "", 
+    "version": "1.2"
+  }, 
+  "only_for_host_os_tags": [
+    "linux"
+  ], 
+  "only_for_target_os_tags": [
+    "linux"
+  ], 
+  "process_script": "process", 
+  "soft_uoa": "6b49e0fec6ca9a1c", 
+  "suggested_path": "pocc", 
+  "tags": [
+    "compiler", 
+    "source-to-source", 
+    "pocc", 
+    "v1.2", 
+    "v1"
+  ]
+}
