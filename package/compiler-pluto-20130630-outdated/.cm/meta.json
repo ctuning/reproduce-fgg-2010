@@ -1,0 +1,24 @@
+{
+  "customize": {
+    "add_m32": "no", 
+    "extra_dir": "", 
+    "retarget": "no", 
+    "tool_prefix": "", 
+    "version": "2013.06.30"
+  }, 
+  "only_for_host_os_tags": [
+    "linux"
+  ], 
+  "only_for_target_os_tags": [
+    "linux"
+  ], 
+  "process_script": "process", 
+  "soft_uoa": "fbef47870a59450f", 
+  "suggested_path": "pluto", 
+  "tags": [
+    "compiler", 
+    "source-to-source", 
+    "pluto", 
+    "v20130630"
+  ]
+}
