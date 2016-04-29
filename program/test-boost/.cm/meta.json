@@ -1,0 +1,39 @@
+{
+  "backup_data_uid": "b86283e4e8aad445", 
+  "build_compiler_vars": {}, 
+  "compile_deps": {
+    "compiler": {
+      "local": "yes", 
+      "name": "C++ compiler", 
+      "tags": "compiler,lang-cpp"
+    }
+  }, 
+  "compiler_env": "CK_CXX", 
+  "data_name": "test-boost", 
+  "main_language": "cpp", 
+  "process_in_tmp": "yes", 
+  "program": "yes", 
+  "run_cmds": {
+    "default": {
+      "ignore_return_code": "no", 
+      "run_time": {
+        "run_cmd_main": "$#BIN_FILE#$", 
+        "run_cmd_out1": "tmp-output1.tmp", 
+        "run_cmd_out2": "tmp-output2.tmp", 
+        "run_correctness_output_files": [
+          "tmp-output1.tmp", 
+          "tmp-output2.tmp"
+        ]
+      }
+    }
+  }, 
+  "run_vars": {}, 
+  "source_files": [
+    "test.cpp"
+  ], 
+  "tags": [
+    "test", 
+    "boost"
+  ], 
+  "target_file": "a"
+}
