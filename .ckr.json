@@ -3,7 +3,12 @@
   "data_name": "reproduce-fgg-2010", 
   "dict": {
     "url": "https://github.com/ctuning/reproduce-fgg-2010", 
-    "shared": "git"
+    "shared": "git",
+    "repo_deps": [
+      {
+        "repo_uoa": "ck-math"
+      }
+    ], 
   }, 
   "data_alias": "reproduce-fgg-2010", 
   "data_uoa": "reproduce-fgg-2010"
